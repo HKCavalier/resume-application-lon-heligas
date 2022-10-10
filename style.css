@@ -1,0 +1,80 @@
+body {
+  background-color: white;  
+}
+
+div {
+  
+}
+
+h1 {
+  color: black;  
+  font-family: Eurostile, Arial, Calibri, sans-serif;
+  margin-bottom: -20px;  
+}
+
+
+h2 {
+  color: black;
+  font-family: Eurostile, Arial, Calibri, sans-serif;
+ margin-bottom: -12px;
+  padding-left: 20px;
+}
+
+
+h3 {
+  color: black;
+  font-family: Eurostile, Arial, Calibri, sans-serif;
+  margin-bottom: -12px;
+}
+
+h4 {
+  color: black;
+  font-family: Eurostile, Arial, Calibri, sans-serif;
+  
+}
+
+h5 {
+  color: black;
+  font-family: Eurostile, Arial, Calibri, sans-serif;
+  margin-bottom: -12px;
+}
+
+p, li { 
+  color: black;
+  font-family: Eurostile, Arial, Calibri, sans-serif;
+  line-height: 15px
+    padding-left: 20px;
+  
+}
+
+
+.name {
+  text-align: center;
+  animation: fadeIn 1s;
+}
+
+.address-info{
+  text-align: center;
+  display:flex;
+  width: 100%;
+  justify-content: space-around;  
+  
+}
+
+.work-role{
+  padding-left: 25px;
+}
+
+.company-title{
+   margin-bottom: -20px;
+}
+
+.education-info{
+  padding-left: 25px;     
+  
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0;}
+  100% { opacity: 1;}
+}
