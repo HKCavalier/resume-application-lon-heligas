@@ -1,2 +1,2 @@
 # resume-application-lon-heligas
-Resume workshop for my Prime Academy application
+Resume workshop for my Prime Digital Academy application
